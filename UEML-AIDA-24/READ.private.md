@@ -3,6 +3,7 @@ donot present squared loss to stackholder as it has different unit to the measur
 
 ## activation
 ReLu activation will results in shape boundary edges
+softplus activation will avoid negative values
 
 ## dropout at train and test phase
 
@@ -16,4 +17,11 @@ dropping connection betwwen neutrons in previous layer and current layer
 ### MC Dropout
 
 ### DropConnect
+
+
+### Deep Ensemble 
+
+
+### VI
+
 
