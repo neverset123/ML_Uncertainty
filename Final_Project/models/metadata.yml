@@ -1,0 +1,6 @@
+model_weights:
+  0: ensemble_weights.h5
+  1: ensemble_weights.h5
+  2: ensemble_weights.h5
+  3: ensemble_weights.h5
+  4: ensemble_weights.h5
